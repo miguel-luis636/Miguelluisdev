@@ -4,23 +4,6 @@ Analista de Testes  com atuação em testes manuais de aplicações Web e APIs, 
 
 ---
 
-## 💼 Experiência
-**Projeto ConectaBem (Trabalho Voluntário)**  
-Analista de Testes Júnior  
-- Execução de testes manuais funcionais, exploratórios e de usabilidade  
-- Testes de API com Postman e Newman  
-- Reporte e acompanhamento de defeitos com evidências  
-- Documentação de cenários e casos de teste  
-
-**Freelance — QA Júnior**  
-- Execução de testes manuais em aplicações Web e APIs  
-- Apoio inicial à automação de testes com Cypress  
-- Organização de execuções e controle de defeitos  
-
-## 🎓 Formação
-- Gestão da Tecnologia da Informação — UNISUAM (início em 2026)  
-- Análise e Desenvolvimento de Sistemas — UNISUAM (trancado)
----
 
 ## 🛠️ Ferramentas e Tecnologias
 
